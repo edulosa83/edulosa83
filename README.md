@@ -1,4 +1,6 @@
-👋🏼 Hello, my name is Eduardo Gustavo!
+👋🏼 Hello, my name is Eduardo!
+
+###About Me
 
 📌 I hold a Bachelor's degree in Advertising with over 15 years of professional experience. I'm recognized for my expertise in the development, design, and maintenance of websites, landing pages, and microsites. My focus revolves around creating a seamless and appealing online shopping experience, optimizing the impact of digital platforms.
 
